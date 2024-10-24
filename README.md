@@ -19,5 +19,5 @@ Ensure you enable workflow read and write permissions for you repository
 
 Also make sure you set your git config properly in the workflow file
 
-https://github.com/fbiego/google-play-stats/blob/main/.github/workflows/main.yml#L28-L31
+https://github.com/fbiego/google-play-scraper/blob/c5e1f80889ce4a08aeab8ab894ce2cdd40d83961/.github/workflows/main.yml#L28-L31
 

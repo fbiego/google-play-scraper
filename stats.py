@@ -62,9 +62,11 @@ footer = '''
 
 Ensure you enable workflow read and write permissions for you repository
 
+![Permissions](permisions.png?raw=true "permisions")
+
 Also make sure you set your git config properly in the workflow file
 
-https://github.com/fbiego/google-play-stats/blob/main/.github/workflows/main.yml#L28-L31
+https://github.com/fbiego/google-play-scraper/blob/master/.github/workflows/main.yml#L28-L31
 
 '''
 
