@@ -56,6 +56,18 @@ header = '''
 ### apps
 '''
 
+footer = '''
+
+### Workflow
+
+Ensure you enable workflow read and write permissions for you repository
+
+Also make sure you set your git config properly in the workflow file
+
+https://github.com/fbiego/google-play-stats/blob/main/.github/workflows/main.yml#L28-L31
+
+'''
+
 # folder_path = "apps"
 
 # if not os.path.exists(folder_path):
