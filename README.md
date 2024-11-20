@@ -5,6 +5,6 @@
 ### apps
 | Icon | Name | Version | Installs | Av. Installs Daily | 
 | -- | -- | -- | -- | -- | 
-| <a href='https://play.google.com/store/apps/details?id=com.fbiego.chronos'><img alt='Get it on Google Play' height="50px" src='https://play-lh.googleusercontent.com/S7PNiRZFHA1dCFLiKfcc6vpAftizsik_KGgQgme7F1SHE18ch7RCgnYleoMNLz6pvQ'/></a> |  Chronos | v3.7.6 | 67291 | 97.81 | 
-| <a href='https://play.google.com/store/apps/details?id=com.fbiego.esp32.ota'><img alt='Get it on Google Play' height="50px" src='https://play-lh.googleusercontent.com/mqcD-18qK-tHdncOCU3LdeR5TXm0fBYbvmF-z8AaObcOPUrkxDW0NgVYPWhfltiSEQ'/></a> |  ESP32 OTA BLE | v1.4 | 5587 | 5.86 | 
-| <a href='https://play.google.com/store/apps/details?id=com.fbiego.tweet'><img alt='Get it on Google Play' height="50px" src='https://play-lh.googleusercontent.com/ppECgCvsLFHKhKRkIzW2GpNC4CVeT2jTGHHQJWs2e9YXy8lobRhuQYKHKJlKLgqkHU02'/></a> |  Retweet | v1.9 | 4871 | 5.11 | 
+| <a href='https://play.google.com/store/apps/details?id=com.fbiego.chronos'><img alt='Get it on Google Play' height="50px" src='https://play-lh.googleusercontent.com/S7PNiRZFHA1dCFLiKfcc6vpAftizsik_KGgQgme7F1SHE18ch7RCgnYleoMNLz6pvQ'/></a> |  Chronos | v3.7.6 | 67424 | 97.86 | 
+| <a href='https://play.google.com/store/apps/details?id=com.fbiego.esp32.ota'><img alt='Get it on Google Play' height="50px" src='https://play-lh.googleusercontent.com/mqcD-18qK-tHdncOCU3LdeR5TXm0fBYbvmF-z8AaObcOPUrkxDW0NgVYPWhfltiSEQ'/></a> |  ESP32 OTA BLE | v1.4 | 5596 | 5.86 | 
+| <a href='https://play.google.com/store/apps/details?id=com.fbiego.tweet'><img alt='Get it on Google Play' height="50px" src='https://play-lh.googleusercontent.com/ppECgCvsLFHKhKRkIzW2GpNC4CVeT2jTGHHQJWs2e9YXy8lobRhuQYKHKJlKLgqkHU02'/></a> |  Retweet | v1.9 | 4875 | 5.11 | 
