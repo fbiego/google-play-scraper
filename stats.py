@@ -46,7 +46,7 @@ def info(playstore):
     
     return json
 
-apps = ['com.fbiego.chronos', 'com.fbiego.esp32.ota', 'com.fbiego.tweet']
+apps = ['com.fbiego.chronos', 'com.fbiego.esp32.ota']
 
 output = {}
 header = '''
