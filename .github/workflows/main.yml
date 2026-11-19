@@ -16,7 +16,7 @@ jobs:
         - name: setup python
           uses: actions/setup-python@v4
           with:
-              python-version: 3.8 #install the python needed
+              python-version: '3.13' #install the python needed
               cache: 'pip'
         - run: pip install -r requirements.txt
         - name: execute scraper script # run the script
